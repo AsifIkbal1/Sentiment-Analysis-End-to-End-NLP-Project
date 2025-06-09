@@ -9,13 +9,12 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 # 📁 গিটহাব রিপোজিটরির নাম
-REPO_NAME = "Cotton-Disease-Prediction-End-to-End-DL-Project"
-
+REPO_NAME = "Sentiment Analysis End-to-End NLP Project"
 # 👤 লেখকের গিটহাব ইউজারনেম
 AUTHOR_USER_NAME = "asifikbal"
 
 # 📦 সোর্স কোড যেখানে আছে
-SRC_REPO = "dlProject"
+SRC_REPO = "NLPProject"
 
 # 📧 লেখকের ইমেইল
 AUTHOR_EMAIL = "ikbal22205101162@diu.edu.bd"
